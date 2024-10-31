@@ -4,6 +4,28 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
+    id: 'test-01',
+    name: '扇贝英语4级精简导出',
+    description: '自用',
+    category: '中国考试',
+    tags: ['大学英语'],
+    url: '/dicts/a_shanbay-cet4.json',
+    length: 1804,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'test-02',
+    name: '短语',
+    description: '自用',
+    category: '中国考试',
+    tags: ['大学英语'],
+    url: '/dicts/a_phrase.json',
+    length: 853,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'cet4',
     name: 'CET-4',
     description: '大学英语四级词库',
