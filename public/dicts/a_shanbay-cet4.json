@@ -90,12 +90,6 @@
     ]
   },
   {
-    "name": "despite",
-    "trans": [
-      " prep.尽管，即使"
-    ]
-  },
-  {
     "name": "volume",
     "trans": [
       " n.容量，体积；音量；（书）卷，册"
@@ -138,12 +132,6 @@
     ]
   },
   {
-    "name": "delivery",
-    "trans": [
-      " n.投递，传送；分娩"
-    ]
-  },
-  {
     "name": "severe",
     "trans": [
       " adj.严重的；严厉的；艰巨的"
@@ -162,12 +150,6 @@
     ]
   },
   {
-    "name": "effective",
-    "trans": [
-      " adj.有效的；实际的"
-    ]
-  },
-  {
     "name": "specific",
     "trans": [
       " adj.明确的，具体的；特定的n.详情，细节"
@@ -183,18 +165,6 @@
     "name": "evaluate",
     "trans": [
       " v.评估"
-    ]
-  },
-  {
-    "name": "farewell",
-    "trans": [
-      " n.告别"
-    ]
-  },
-  {
-    "name": "expression",
-    "trans": [
-      " n.表达；表情；措辞；情感表现"
     ]
   },
   {
@@ -264,12 +234,6 @@
     ]
   },
   {
-    "name": "appearance",
-    "trans": [
-      " n.外貌；出现，问世；公开露面"
-    ]
-  },
-  {
     "name": "rarely",
     "trans": [
       " adv.罕见，很少"
@@ -300,18 +264,6 @@
     ]
   },
   {
-    "name": "bind",
-    "trans": [
-      " v.捆，绑；使结合；约束；装订"
-    ]
-  },
-  {
-    "name": "particularly",
-    "trans": [
-      " adv.特别，尤其；异乎寻常地"
-    ]
-  },
-  {
     "name": "respectively",
     "trans": [
       " adv.各自地，分别地"
@@ -336,21 +288,9 @@
     ]
   },
   {
-    "name": "decade",
-    "trans": [
-      " n.十年（时间）"
-    ]
-  },
-  {
     "name": "anticipate",
     "trans": [
       " v.预料；预见；期盼"
-    ]
-  },
-  {
-    "name": "scholar",
-    "trans": [
-      " n.学者；奖学金获得者"
     ]
   },
   {
@@ -363,12 +303,6 @@
     "name": "nonsense",
     "trans": [
       " n.毫无意义的话；愚蠢的行为"
-    ]
-  },
-  {
-    "name": "element",
-    "trans": [
-      " n.要素；元素；少量；（恶劣）天气"
     ]
   },
   {
@@ -396,12 +330,6 @@
     ]
   },
   {
-    "name": "pursue",
-    "trans": [
-      " v.追求；追赶；致力于；从事；沿着…前进，延伸"
-    ]
-  },
-  {
     "name": "capture",
     "trans": [
       " v.俘获；攻占；赢得；引起；刻画；拍摄n.捕获，俘获"
@@ -414,39 +342,9 @@
     ]
   },
   {
-    "name": "maintain",
-    "trans": [
-      " v.维持；保养；坚持意见；抚养"
-    ]
-  },
-  {
-    "name": "puzzle",
-    "trans": [
-      " n.谜；难题；智力游戏v.使困惑；使为难"
-    ]
-  },
-  {
-    "name": "sample",
-    "trans": [
-      " n.样本，样品v.采样，取样"
-    ]
-  },
-  {
     "name": "accompany",
     "trans": [
       " v.陪伴；伴随，与…一起发生；给…伴奏"
-    ]
-  },
-  {
-    "name": "bachelor",
-    "trans": [
-      " n.单身汉；学士"
-    ]
-  },
-  {
-    "name": "counter",
-    "trans": [
-      " n.柜台；计数器；工作台v.反驳；抵消adv.相反地；对立地"
     ]
   },
   {
@@ -468,63 +366,15 @@
     ]
   },
   {
-    "name": "compete",
-    "trans": [
-      " v.竞争；参加竞赛"
-    ]
-  },
-  {
-    "name": "contribute",
-    "trans": [
-      " v.捐赠；做贡献；是…的原因之一；有助于"
-    ]
-  },
-  {
-    "name": "numerous",
-    "trans": [
-      " adj.众多的，许多的"
-    ]
-  },
-  {
     "name": "gratitude",
     "trans": [
       " n.感激，感谢"
     ]
   },
   {
-    "name": "pray",
-    "trans": [
-      " v.祈祷；企盼"
-    ]
-  },
-  {
-    "name": "crystal",
-    "trans": [
-      " n.水晶；结晶adj.水晶的；晶体的；透明的"
-    ]
-  },
-  {
     "name": "crucial",
     "trans": [
       " adj.决定性的；至关重要的"
-    ]
-  },
-  {
-    "name": "participant",
-    "trans": [
-      " n.参与者"
-    ]
-  },
-  {
-    "name": "literature",
-    "trans": [
-      " n.文学（作品）；资料；文献"
-    ]
-  },
-  {
-    "name": "extend",
-    "trans": [
-      " v.伸长，拓展；扩大（范围）；适用于；允许使用"
     ]
   },
   {
@@ -537,12 +387,6 @@
     "name": "representative",
     "trans": [
       " n.代表；代理人；典型事物adj.典型的，有代表性的"
-    ]
-  },
-  {
-    "name": "wrap",
-    "trans": [
-      " v.（用…）包裹；（用…）缠绕；覆盖n.披肩，围巾；包裹材料"
     ]
   },
   {
@@ -630,24 +474,6 @@
     ]
   },
   {
-    "name": "entry",
-    "trans": [
-      " n.进入（资格）；登记；加入；参赛作品"
-    ]
-  },
-  {
-    "name": "astonish",
-    "trans": [
-      " v.使…惊讶"
-    ]
-  },
-  {
-    "name": "humble",
-    "trans": [
-      " adj.谦卑的，恭顺的；卑贱的"
-    ]
-  },
-  {
     "name": "overseas",
     "trans": [
       " adj.外国的，海外的adv.在国外，在海外"
@@ -660,12 +486,6 @@
     ]
   },
   {
-    "name": "mature",
-    "trans": [
-      " adj.成熟的；成年的；深思熟虑的v.变成熟；长大；酿成"
-    ]
-  },
-  {
     "name": "yearly",
     "trans": [
       " adj.每年的；年度的adv.每年地"
@@ -675,12 +495,6 @@
     "name": "senate",
     "trans": [
       " n.参议院"
-    ]
-  },
-  {
-    "name": "tend",
-    "trans": [
-      " v.倾向于；往往会；照料"
     ]
   },
   {
@@ -735,18 +549,6 @@
     "name": "occur",
     "trans": [
       " v.存在；出现；发生"
-    ]
-  },
-  {
-    "name": "loyal",
-    "trans": [
-      " adj.忠诚的"
-    ]
-  },
-  {
-    "name": "efficient",
-    "trans": [
-      " adj.效率高的，有能力的"
     ]
   },
   {
