@@ -10,7 +10,7 @@ const chinaExam: DictionaryResource[] = [
     category: '中国考试',
     tags: ['大学英语'],
     url: '/dicts/a_shanbay-cet4.json',
-    length: 1762,
+    length: 1761,
     language: 'en',
     languageCategory: 'en',
   },
